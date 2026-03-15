@@ -1,4 +1,4 @@
-# Artificial Intelligence Course Assignments
+# AI Assignments
 
 This repository contains my assignments for the Artificial Intelligence course. Each assignment demonstrates different AI concepts and algorithms.
 
